@@ -1,0 +1,15 @@
+[LocalGit]
+
+main branch
+aaa.txt bbb.txt ccc.txt 만들고 V0.0 commit
+
+dev branch
+ddd.txt eee.txt fff.txt 만들고 V0.1 commit
+
+remote origin 설정이후 push
+
+[Github]
+reponame : GitTestRepo
+branch : main,dev 생성 확인
+프로젝트 파일 확인
+
